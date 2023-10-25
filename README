@@ -1,7 +1,7 @@
 #instructions
 
-1.- npm create vite@latest
-2.- select vanilla or react
-3.- cd project
-4.- npm i @vitejs/plugin-react -E => liveserver => E version exacta
-5.- npm i react react-dom -E => plugin
+1 npm create vite@latest
+2 select vanilla or react
+3 cd project
+4 npm i @vitejs/plugin-react -E => liveserver => E version exacta
+5 npm i react react-dom -E => plugin
