@@ -1,6 +1,9 @@
 # Inicializar desde cero react y crear punto de entrada
-1.- npm create vite@latest
-2.- Seleccionar vanilla
-3.- Seleccionar variante JavaScript
-4.- Instalar plugin de vite npm i @vitejs/plugin-react -E
-5.- Crear un archivo vite.config.js
+- npm create vite@latest
+- Seleccionar vanilla
+- Seleccionar variante JavaScript
+- Instalar plugin de vite npm i @vitejs/plugin-react -E
+- Crear un archivo vite.config.js
+- Crear un carpeta src y un archivo app.jsx
+- Instalar elinter o standar npm i standard -D 
+- Agregar configuracion en el package.json 
